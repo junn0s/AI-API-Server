@@ -1,0 +1,5 @@
+POST https://redesigned-capybara-v6pqxp9p7rg7cwp7x-8000.app.github.dev/train
+
+###
+
+GET https://redesigned-capybara-v6pqxp9p7rg7cwp7x-8000.app.github.dev/predict/left/1/right/0/gate/XOR
