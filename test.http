@@ -1,0 +1,5 @@
+POST https://potential-doodle-976jp6r647wrhp65v-8000.app.github.dev/train
+
+###
+
+GET https://potential-doodle-976jp6r647wrhp65v-8000.app.github.dev/predict/left/0/right/1
